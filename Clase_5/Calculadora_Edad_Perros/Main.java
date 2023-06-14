@@ -1,4 +1,4 @@
-package Clase_5;
+package Clase_5.Calculadora_Edad_Perros;
 
 import java.util.Scanner;
 
