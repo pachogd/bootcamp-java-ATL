@@ -1,3 +1,5 @@
+package Clase_5;
+
 import java.util.Scanner;
 
 public class Main {
